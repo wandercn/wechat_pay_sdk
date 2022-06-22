@@ -1,5 +1,6 @@
 [package]
 name = "wechat_pay_sdk"
+license = "MIT"
 version = "0.1.0"
 edition = "2018"
 authors = ["wandercn<wander@ffactory.org>"]
