@@ -1,0 +1,13 @@
+[package]
+name = "wechat_pay_sdk"
+version = "0.1.0"
+edition = "2018"
+authors = ["wandercn<wander@ffactory.org>"]
+description = "WechatPay Sdk for Rust"
+homepage = "https://github.com/wandercn/wechat_pay_sdk"
+repository = "https://github.com/wandercn/wechat_pay_sdk"
+keywords = ["wechatpay","wechatpay-sdk","gostd","pay","wechatpay-rs"]
+categories= ["api-bindings","accessibility","development-tools","compilers"]
+
+[dependencies]
+gostd = "0.3"
